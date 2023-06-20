@@ -5,6 +5,8 @@ A list of machine learning tasks carried out in a set of series spread across 3 
 
 This repository contains a set of machine learning tasks performed in a series of three Colab notebooks. The notebooks cover various aspects of machine learning, including data preprocessing, model selection, training, evaluation, and deployment.
 
+The format of this project is tasks carried out part by part in the notebooks. You will observe a 'question and answer' shape throughout the notebooks.
+
 ## Requirements
 
 - Python 3.x
